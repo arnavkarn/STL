@@ -6,3 +6,4 @@ Here, you will find the STLs I practiced upon
 4. Deque
 5. Stack
 6. Queue
+7. Priority Queue
