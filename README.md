@@ -7,3 +7,4 @@ Here, you will find the STLs I practiced upon
 5. Stack
 6. Queue
 7. Priority Queue
+8. Set
